@@ -1,1 +1,2 @@
+-e file:../shared
 Django==1.8.3
